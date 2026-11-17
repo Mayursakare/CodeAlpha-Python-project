@@ -1,0 +1,501 @@
+OrderID,OrderDate,CustomerID,CustomerName,ProductName,Category,City,Region,Quantity,UnitPrice,DiscountPct,Sales,PaymentMethod,OrderStatus
+ORD0001,2025-02-01,C070,Customer_021,Laptop,Electronics,Jaipur,North,4,58944.58,0.1,212200.49,UPI,Completed
+ORD0002,2025-02-16,C084,Customer_046,Water Bottle,Accessories,Chennai,South,4,475.75,0.1,1712.7,Debit Card,Completed
+ORD0003,2025-07-19,C045,Customer_046,Smartphone,Electronics,Ahmedabad,West,4,23420.15,0.15,79628.51,Credit Card,Completed
+ORD0004,2025-08-19,C017,Customer_076,Notebook,Stationery,Ahmedabad,West,1,85.24,0.05,80.98,Cash,Completed
+ORD0005,2025-10-05,C020,Customer_037,Laptop,Electronics,Ahmedabad,West,3,58062.22,0.2,139349.33,Debit Card,Completed
+ORD0006,2025-09-29,C037,Customer_097,Laptop,Electronics,Hyderabad,South,1,57013.54,0.2,45610.83,Debit Card,Completed
+ORD0007,2025-06-18,C013,Customer_069,Water Bottle,Accessories,Delhi,North,1,422.05,0.1,379.85,Debit Card,Completed
+ORD0008,2025-10-31,C063,Customer_071,Headphones,Electronics,Hyderabad,South,4,2468.58,0.0,9874.32,UPI,Completed
+ORD0009,2025-11-24,C029,Customer_024,Backpack,Accessories,Jaipur,North,3,1466.24,0.2,3518.98,Cash,Cancelled
+ORD0010,2025-10-15,C079,Customer_067,Smartphone,Electronics,Jaipur,North,1,19832.39,0.15,16857.53,Debit Card,Cancelled
+ORD0011,2025-01-14,C014,Customer_025,Headphones,Electronics,Jaipur,North,3,2534.37,0.1,6842.8,UPI,Completed
+ORD0012,2025-10-07,C058,Customer_064,Pen Pack,Stationery,Chennai,South,3,121.57,0.0,364.71,Debit Card,Completed
+ORD0013,2025-05-07,C044,Customer_099,Laptop,Electronics,Hyderabad,South,4,49839.0,0.05,189388.2,Credit Card,Completed
+ORD0014,2025-01-22,C086,Customer_029,Desk,Furniture,Ahmedabad,West,5,8521.09,0.2,34084.36,Net Banking,Completed
+ORD0015,2025-12-30,C067,Customer_041,Desk,Furniture,Chennai,South,1,9511.02,0.1,8559.92,Debit Card,Completed
+ORD0016,2025-02-02,C078,Customer_073,Mouse,Electronics,Delhi,North,1,633.18,0.0,633.18,Cash,Completed
+ORD0017,2025-07-01,C070,Customer_050,Backpack,Accessories,Mumbai,West,5,1395.69,0.1,6280.61,Debit Card,Completed
+ORD0018,2025-05-13,C096,Customer_009,Office Chair,Furniture,Unknown,West,2,6669.37,0.15,11337.93,Credit Card,Completed
+ORD0019,2025-06-16,C027,Customer_077,Office Chair,Furniture,Ahmedabad,West,2,6759.62,0.2,10815.39,Net Banking,Completed
+ORD0020,2025-04-10,C008,Customer_010,Backpack,Accessories,Delhi,North,4,1484.81,0.15,5048.35,Debit Card,Returned
+ORD0021,2025-10-23,C058,Customer_055,Smartphone,Electronics,Bengaluru,South,4,21146.21,0.05,80355.6,UPI,Completed
+ORD0022,2025-06-07,C031,Customer_063,Mouse,Electronics,Pune,West,4,730.72,0.15,2484.45,UPI,Completed
+ORD0023,2025-10-15,C005,Customer_018,Laptop,Electronics,Chennai,South,4,54073.88,0.0,216295.52,Debit Card,Completed
+ORD0024,2025-08-03,C080,Customer_018,Office Chair,Furniture,Chennai,South,1,5984.42,0.0,5984.42,Credit Card,Returned
+ORD0025,2025-04-18,C003,Customer_016,Water Bottle,Accessories,Hyderabad,South,3,458.18,0.05,1305.81,Net Banking,Completed
+ORD0026,2025-06-27,C068,Customer_050,Desk,Furniture,Bengaluru,South,4,8248.91,0.05,31345.86,Debit Card,Returned
+ORD0027,2025-12-15,C034,Customer_055,Smartphone,Electronics,Hyderabad,South,3,20974.69,0.1,56631.66,Debit Card,Returned
+ORD0028,2025-11-24,C055,Customer_015,Desk,Furniture,Delhi,North,1,9587.33,0.0,9587.33,Credit Card,Completed
+ORD0029,2025-03-31,C066,Customer_074,Office Chair,Furniture,Pune,West,4,6215.6,0.15,21133.04,Cash,Returned
+ORD0030,2025-03-26,C024,Customer_004,Backpack,Accessories,Delhi,North,1,1624.8,0.2,1299.84,UPI,Completed
+ORD0031,2025-12-18,C032,Customer_021,Notebook,Stationery,Delhi,North,2,84.93,0.2,135.89,Net Banking,Cancelled
+ORD0032,2025-12-08,C019,Customer_017,Headphones,Electronics,Hyderabad,South,3,2377.98,0.2,5707.15,Debit Card,Completed
+ORD0033,2025-02-03,C075,Customer_085,Headphones,Electronics,Bengaluru,South,5,2695.84,0.2,10783.36,Net Banking,Completed
+ORD0034,2025-10-09,C034,Customer_067,Mouse,Electronics,Pune,West,3,674.23,0.0,2022.69,Debit Card,Completed
+ORD0035,2025-01-02,C094,Customer_095,Mouse,Electronics,Pune,West,4,666.74,0.15,2266.92,Credit Card,Completed
+ORD0036,2025-03-07,C037,Customer_060,Smartphone,Electronics,Pune,West,5,20474.45,0.15,87016.41,Cash,Returned
+ORD0037,2025-04-27,C098,Customer_050,Laptop,Electronics,Mumbai,West,2,58051.45,0.05,110297.75,Debit Card,Completed
+ORD0038,2025-02-18,C002,Customer_068,Smartphone,Electronics,Ahmedabad,West,1,20810.49,0.05,19769.97,Net Banking,Completed
+ORD0039,2025-06-02,C020,Customer_087,Headphones,Electronics,Hyderabad,South,5,2540.56,0.15,10797.38,Net Banking,Completed
+ORD0040,2025-02-15,C057,Customer_093,Backpack,Accessories,Pune,West,4,1389.32,0.1,5001.55,UPI,Completed
+ORD0041,2025-04-25,C096,Customer_053,Water Bottle,Accessories,Unknown,North,1,464.66,0.1,418.19,Credit Card,Returned
+ORD0042,2025-08-20,C085,Customer_011,Water Bottle,Accessories,Bengaluru,South,1,454.97,0.0,454.97,Cash,Completed
+ORD0043,2025-03-08,C094,Customer_074,Backpack,Accessories,Bengaluru,South,1,1528.81,0.2,1223.05,Net Banking,Completed
+ORD0044,2025-02-09,C029,Customer_083,Desk,Furniture,Chennai,South,4,8132.11,0.15,27649.17,Credit Card,Cancelled
+ORD0045,2025-12-07,C087,Customer_076,Desk,Furniture,Mumbai,West,2,9190.83,0.1,16543.49,Cash,Completed
+ORD0046,2025-08-26,C097,Customer_087,Desk,Furniture,Pune,West,2,8866.59,0.0,17733.18,Credit Card,Completed
+ORD0047,2025-11-03,C082,Customer_096,Notebook,Stationery,Mumbai,West,2,83.94,0.05,159.49,UPI,Returned
+ORD0048,2025-10-29,C032,Customer_032,Laptop,Electronics,Bengaluru,South,3,51107.91,0.0,153323.73,Net Banking,Completed
+ORD0049,2025-07-30,C016,Customer_046,Water Bottle,Accessories,Ahmedabad,West,3,430.62,0.0,1291.86,UPI,Completed
+ORD0050,2025-01-20,C043,Customer_060,Laptop,Electronics,Chennai,South,1,51421.06,0.2,41136.85,Debit Card,Cancelled
+ORD0051,2025-09-26,C088,Customer_080,Mouse,Electronics,Bengaluru,South,5,700.63,0.05,3327.99,Net Banking,Completed
+ORD0052,2025-04-02,C065,Customer_058,Laptop,Electronics,Bengaluru,South,1,52104.19,0.05,49498.98,Net Banking,Completed
+ORD0053,2025-11-23,C011,Customer_010,Headphones,Electronics,Pune,West,1,2511.88,0.05,2386.29,Net Banking,Completed
+ORD0054,2025-11-04,C081,Customer_091,Laptop,Electronics,Bengaluru,South,5,50590.24,0.2,202360.96,Credit Card,Returned
+ORD0055,2025-08-13,C078,Customer_074,Office Chair,Furniture,Unknown,North,3,6685.23,0.15,17047.34,UPI,Returned
+ORD0056,2025-06-18,C079,Customer_039,Notebook,Stationery,Delhi,North,3,85.72,0.2,205.73,Cash,Cancelled
+ORD0057,2025-03-02,C042,Customer_061,Headphones,Electronics,Delhi,North,1,2488.94,0.0,2488.94,Credit Card,Completed
+ORD0058,2025-05-19,C019,Customer_069,Office Chair,Furniture,Hyderabad,South,2,6275.74,0.1,11296.33,Credit Card,Completed
+ORD0059,2025-10-09,C033,Customer_047,Backpack,Accessories,Ahmedabad,West,4,1494.27,0.2,4781.66,Debit Card,Returned
+ORD0060,2025-07-14,C077,Customer_064,Mouse,Electronics,Bengaluru,South,4,742.61,0.1,2673.4,UPI,Completed
+ORD0061,2025-07-03,C087,Customer_092,Smartphone,Electronics,Chennai,South,1,22857.11,0.05,21714.25,UPI,Returned
+ORD0062,2025-01-31,C053,Customer_094,Pen Pack,Stationery,Chennai,South,1,125.42,0.1,112.88,Cash,Completed
+ORD0063,2025-06-12,C079,Customer_100,Water Bottle,Accessories,Ahmedabad,West,1,458.43,0.2,366.74,Cash,Returned
+ORD0064,2025-02-04,C053,Customer_062,Water Bottle,Accessories,Pune,West,2,458.11,0.0,916.22,UPI,Completed
+ORD0065,2025-09-05,C053,Customer_073,Smartphone,Electronics,Hyderabad,South,1,21850.33,0.1,19665.3,Cash,Returned
+ORD0066,2025-12-06,C085,Customer_012,Backpack,Accessories,Hyderabad,South,3,1529.88,0.0,4589.64,Cash,Completed
+ORD0067,2025-12-03,C078,Customer_021,Backpack,Accessories,Pune,West,3,1475.58,0.15,3762.73,Cash,Cancelled
+ORD0068,2025-04-09,C080,Customer_037,Office Chair,Furniture,Chennai,South,5,6841.29,0.15,29075.48,Debit Card,Completed
+ORD0069,2025-07-22,C044,Customer_074,Office Chair,Furniture,Mumbai,West,5,7066.97,0.0,35334.85,Credit Card,Completed
+ORD0070,2025-10-12,C062,Customer_048,Backpack,Accessories,Mumbai,West,3,1630.84,0.05,4647.89,UPI,Completed
+ORD0071,2025-06-04,C012,Customer_028,Pen Pack,Stationery,Ahmedabad,West,1,130.83,0.15,111.21,Net Banking,Returned
+ORD0072,2025-09-08,C055,Customer_002,Pen Pack,Stationery,Pune,West,1,122.12,0.0,122.12,UPI,Completed
+ORD0073,2025-04-26,C045,Customer_002,Backpack,Accessories,Jaipur,North,3,1487.56,0.05,4239.55,Credit Card,Completed
+ORD0074,2025-12-30,C005,Customer_088,Water Bottle,Accessories,Chennai,South,4,414.95,0.05,1576.81,Cash,Completed
+ORD0075,2025-01-09,C067,Customer_014,Backpack,Accessories,Jaipur,North,1,1649.73,0.0,1649.73,Cash,Cancelled
+ORD0076,2025-03-29,C046,Customer_015,Laptop,Electronics,Chennai,South,5,49818.99,0.05,236640.2,Net Banking,Cancelled
+ORD0077,2025-11-28,C004,Customer_001,Mouse,Electronics,Mumbai,West,1,721.88,0.2,577.5,UPI,Completed
+ORD0078,2025-03-29,C029,Customer_085,Laptop,Electronics,Jaipur,North,4,58316.3,0.2,186612.16,Credit Card,Completed
+ORD0079,2025-11-05,C070,Customer_082,Pen Pack,Stationery,Jaipur,North,5,126.53,0.2,506.12,Net Banking,Completed
+ORD0080,2025-07-04,C054,Customer_075,Laptop,Electronics,Bengaluru,South,2,50874.16,0.15,86486.07,Debit Card,Cancelled
+ORD0081,2025-01-20,C020,Customer_002,Laptop,Electronics,Jaipur,North,3,57580.83,0.0,172742.49,Credit Card,Completed
+ORD0082,2025-01-20,C008,Customer_062,Backpack,Accessories,Hyderabad,South,5,1533.46,0.1,6900.57,UPI,Completed
+ORD0083,2025-05-16,C010,Customer_078,Headphones,Electronics,Ahmedabad,West,3,2336.56,0.15,5958.23,UPI,Completed
+ORD0084,2025-08-21,C088,Customer_058,Water Bottle,Accessories,Hyderabad,South,3,475.57,0.05,1355.37,Debit Card,Completed
+ORD0085,2025-07-16,C070,Customer_026,Headphones,Electronics,Ahmedabad,West,3,2539.01,0.05,7236.18,Cash,Completed
+ORD0086,2025-05-28,C092,Customer_048,Water Bottle,Accessories,Mumbai,West,1,450.75,0.15,383.14,UPI,Completed
+ORD0087,2025-08-13,C043,Customer_079,Water Bottle,Accessories,Mumbai,West,5,432.42,0.05,2053.99,Cash,Completed
+ORD0088,2025-03-21,C095,Customer_059,Pen Pack,Stationery,Ahmedabad,West,3,117.81,0.2,282.74,Cash,Completed
+ORD0089,2025-02-23,C023,Customer_010,Water Bottle,Accessories,Pune,West,2,447.67,0.1,805.81,Debit Card,Completed
+ORD0090,2025-08-27,C062,Customer_032,Notebook,Stationery,Hyderabad,South,4,82.37,0.1,296.53,Credit Card,Cancelled
+ORD0091,2025-07-12,C037,Customer_097,Office Chair,Furniture,Hyderabad,South,1,6663.82,0.1,5997.44,Debit Card,Returned
+ORD0092,2025-07-03,C074,Customer_053,Backpack,Accessories,Hyderabad,South,5,1626.32,0.2,6505.28,Credit Card,Cancelled
+ORD0093,2025-01-16,C012,Customer_006,Headphones,Electronics,Delhi,North,3,2497.07,0.2,5992.97,UPI,Returned
+ORD0094,2025-05-02,C049,Customer_018,Mouse,Electronics,Jaipur,North,1,669.29,0.1,602.36,Cash,Completed
+ORD0095,2025-09-15,C086,Customer_042,Laptop,Electronics,Chennai,South,5,58598.91,0.0,292994.55,Credit Card,Cancelled
+ORD0096,2025-05-14,C051,Customer_096,Smartphone,Electronics,Mumbai,West,4,20326.56,0.1,73175.62,UPI,Returned
+ORD0097,2025-02-22,C071,Customer_076,Desk,Furniture,Jaipur,North,3,9337.8,0.05,26612.73,Credit Card,Returned
+ORD0098,2025-07-11,C047,Customer_017,Pen Pack,Stationery,Delhi,North,1,113.02,0.15,96.07,Cash,Completed
+ORD0099,2025-03-15,C084,Customer_081,Desk,Furniture,Jaipur,North,5,9100.74,0.2,36402.96,Net Banking,Cancelled
+ORD0100,2025-01-30,C084,Customer_076,Smartphone,Electronics,Hyderabad,South,3,21527.32,0.05,61352.86,UPI,Completed
+ORD0101,2025-03-31,C091,Customer_095,Desk,Furniture,Bengaluru,South,5,8425.67,0.0,42128.35,UPI,Cancelled
+ORD0102,2025-08-03,C073,Customer_050,Headphones,Electronics,Mumbai,West,2,2495.1,0.2,3992.16,UPI,Completed
+ORD0103,2025-07-23,C065,Customer_041,Headphones,Electronics,Mumbai,West,5,2568.79,0.2,10275.16,Cash,Cancelled
+ORD0104,2025-07-16,C089,Customer_034,Backpack,Accessories,Hyderabad,South,1,1459.98,0.15,1240.98,Net Banking,Returned
+ORD0105,2025-05-16,C051,Customer_044,Office Chair,Furniture,Bengaluru,South,3,6957.62,0.15,17741.93,Net Banking,Completed
+ORD0106,2025-07-02,C085,Customer_054,Notebook,Stationery,Pune,West,5,77.45,0.1,348.53,Debit Card,Completed
+ORD0107,2025-05-23,C018,Customer_001,Laptop,Electronics,Bengaluru,South,5,56439.15,0.2,225756.6,Credit Card,Completed
+ORD0108,2025-06-13,C043,Customer_031,Smartphone,Electronics,Delhi,North,1,23880.83,0.15,20298.71,UPI,Completed
+ORD0109,2025-07-11,C064,Customer_072,Notebook,Stationery,Pune,West,3,83.25,0.05,237.26,Net Banking,Returned
+ORD0110,2025-11-26,C052,Customer_073,Pen Pack,Stationery,Ahmedabad,West,3,126.27,0.15,321.99,Credit Card,Returned
+ORD0111,2025-07-05,C074,Customer_081,Pen Pack,Stationery,Jaipur,North,3,110.74,0.2,265.78,Debit Card,Cancelled
+ORD0112,2025-12-26,C016,Customer_029,Notebook,Stationery,Unknown,West,4,87.52,0.0,350.08,Net Banking,Cancelled
+ORD0113,2025-04-19,C005,Customer_051,Water Bottle,Accessories,Chennai,South,4,416.15,0.05,1581.37,Cash,Returned
+ORD0114,2025-12-23,C025,Customer_042,Desk,Furniture,Ahmedabad,West,5,8936.95,0.05,42450.51,UPI,Cancelled
+ORD0115,2025-04-08,C093,Customer_045,Pen Pack,Stationery,Pune,West,2,127.25,0.1,229.05,Net Banking,Completed
+ORD0116,2025-02-09,C094,Customer_068,Laptop,Electronics,Pune,West,2,50035.68,0.05,95067.79,Cash,Cancelled
+ORD0117,2025-05-24,C081,Customer_039,Pen Pack,Stationery,Jaipur,North,1,125.75,0.2,100.6,UPI,Returned
+ORD0118,2025-01-02,C096,Customer_052,Headphones,Electronics,Pune,West,4,2679.06,0.1,9644.62,Credit Card,Cancelled
+ORD0119,2025-08-11,C068,Customer_026,Notebook,Stationery,Pune,West,4,86.33,0.1,310.79,Credit Card,Completed
+ORD0120,2025-04-20,C071,Customer_060,Mouse,Electronics,Hyderabad,South,2,749.47,0.2,1199.15,Debit Card,Completed
+ORD0121,2025-09-05,C009,Customer_068,Smartphone,Electronics,Delhi,North,3,20625.41,0.2,49500.98,Credit Card,Completed
+ORD0122,2025-04-19,C078,Customer_041,Backpack,Accessories,Bengaluru,South,5,1649.62,0.15,7010.88,Debit Card,Completed
+ORD0123,2025-09-26,C060,Customer_007,Smartphone,Electronics,Hyderabad,South,1,22883.88,0.2,18307.1,Credit Card,Completed
+ORD0124,2025-05-14,C009,Customer_007,Water Bottle,Accessories,Mumbai,West,3,417.09,0.0,1251.27,Credit Card,Completed
+ORD0125,2025-11-18,C035,Customer_045,Notebook,Stationery,Pune,West,2,82.15,0.1,147.87,Debit Card,Returned
+ORD0126,2025-04-14,C035,Customer_090,Water Bottle,Accessories,Ahmedabad,West,4,453.68,0.2,1451.78,Credit Card,Completed
+ORD0127,2025-12-26,C075,Customer_022,Notebook,Stationery,Delhi,North,5,80.47,0.2,321.88,Debit Card,Cancelled
+ORD0128,2025-04-28,C018,Customer_016,Pen Pack,Stationery,Pune,West,2,113.79,0.05,216.2,Credit Card,Returned
+ORD0129,2025-08-02,C079,Customer_064,Laptop,Electronics,Delhi,North,1,58211.72,0.1,52390.55,Debit Card,Returned
+ORD0130,2025-10-25,C068,Customer_091,Desk,Furniture,Ahmedabad,West,5,9314.28,0.05,44242.83,Credit Card,Cancelled
+ORD0131,2025-06-05,C066,Customer_032,Desk,Furniture,Mumbai,West,1,8283.41,0.1,7455.07,Net Banking,Cancelled
+ORD0132,2025-12-17,C074,Customer_011,Notebook,Stationery,Ahmedabad,West,3,72.57,0.2,174.17,Credit Card,Completed
+ORD0133,2025-04-07,C052,Customer_080,Laptop,Electronics,Mumbai,West,3,54506.3,0.0,163518.9,Credit Card,Completed
+ORD0134,2025-01-23,C090,Customer_070,Laptop,Electronics,Jaipur,North,1,53729.55,0.15,45670.12,Debit Card,Completed
+ORD0135,2025-02-25,C001,Customer_029,Water Bottle,Accessories,Delhi,North,3,442.49,0.05,1261.1,UPI,Completed
+ORD0136,2025-06-28,C003,Customer_034,Mouse,Electronics,Mumbai,West,1,701.14,0.05,666.08,Debit Card,Completed
+ORD0137,2025-03-25,C033,Customer_060,Notebook,Stationery,Jaipur,North,3,76.17,0.2,182.81,Credit Card,Returned
+ORD0138,2025-05-01,C025,Customer_094,Desk,Furniture,Jaipur,North,4,8510.86,0.15,28936.92,Debit Card,Completed
+ORD0139,2025-08-09,C005,Customer_032,Desk,Furniture,Bengaluru,South,5,8370.82,0.15,35575.99,UPI,Completed
+ORD0140,2025-01-12,C016,Customer_012,Water Bottle,Accessories,Pune,West,1,421.95,0.2,337.56,Cash,Cancelled
+ORD0141,2025-09-08,C085,Customer_050,Desk,Furniture,Mumbai,West,1,9162.35,0.1,8246.11,UPI,Completed
+ORD0142,2025-10-10,C100,Customer_086,Mouse,Electronics,Hyderabad,South,4,652.78,0.2,2088.9,Credit Card,Completed
+ORD0143,2025-11-28,C099,Customer_008,Headphones,Electronics,Ahmedabad,West,3,2551.71,0.1,6889.62,Credit Card,Cancelled
+ORD0144,2025-08-08,C030,Customer_022,Mouse,Electronics,Mumbai,West,2,741.89,0.0,1483.78,Debit Card,Completed
+ORD0145,2025-09-26,C035,Customer_039,Pen Pack,Stationery,Delhi,North,5,108.72,0.0,543.6,UPI,Cancelled
+ORD0146,2025-09-27,C083,Customer_032,Smartphone,Electronics,Chennai,South,4,22915.6,0.05,87079.28,UPI,Returned
+ORD0147,2025-09-02,C070,Customer_007,Smartphone,Electronics,Hyderabad,South,2,20432.36,0.0,40864.72,UPI,Cancelled
+ORD0148,2025-01-07,C056,Customer_100,Notebook,Stationery,Pune,West,5,72.06,0.2,288.24,Debit Card,Completed
+ORD0149,2025-06-01,C054,Customer_017,Office Chair,Furniture,Mumbai,West,3,6994.49,0.2,16786.78,Cash,Completed
+ORD0150,2025-04-18,C035,Customer_067,Headphones,Electronics,Chennai,South,1,2547.28,0.0,2547.28,Net Banking,Returned
+ORD0151,2025-11-06,C088,Customer_084,Smartphone,Electronics,Pune,West,1,20817.63,0.1,18735.87,Credit Card,Cancelled
+ORD0152,2025-09-05,C054,Customer_073,Pen Pack,Stationery,Mumbai,West,3,117.51,0.15,299.65,Cash,Completed
+ORD0153,2025-12-04,C052,Customer_095,Headphones,Electronics,Jaipur,North,4,2459.64,0.2,7870.85,UPI,Completed
+ORD0154,2025-02-04,C078,Customer_089,Backpack,Accessories,Delhi,North,3,1472.39,0.2,3533.74,Cash,Completed
+ORD0155,2025-04-07,C018,Customer_069,Smartphone,Electronics,Chennai,South,3,24030.82,0.0,72092.46,UPI,Returned
+ORD0156,2025-06-21,C088,Customer_074,Mouse,Electronics,Ahmedabad,West,5,659.7,0.05,3133.57,Cash,Returned
+ORD0157,2025-08-27,C074,Customer_054,Pen Pack,Stationery,Bengaluru,South,3,125.8,0.1,339.66,Cash,Returned
+ORD0158,2025-11-12,C087,Customer_080,Notebook,Stationery,Bengaluru,South,1,86.46,0.15,73.49,Debit Card,Completed
+ORD0159,2025-03-18,C098,Customer_099,Laptop,Electronics,Mumbai,West,3,49754.54,0.15,126874.08,Credit Card,Returned
+ORD0160,2025-04-27,C035,Customer_061,Backpack,Accessories,Ahmedabad,West,5,1468.39,0.15,6240.66,Debit Card,Completed
+ORD0161,2025-07-04,C047,Customer_007,Office Chair,Furniture,Bengaluru,South,1,7066.0,0.15,6006.1,UPI,Completed
+ORD0162,2025-03-01,C031,Customer_069,Office Chair,Furniture,Delhi,North,2,6020.44,0.05,11438.84,UPI,Completed
+ORD0163,2025-06-22,C076,Customer_059,Laptop,Electronics,Ahmedabad,West,4,50588.17,0.05,192235.05,Net Banking,Completed
+ORD0164,2025-07-10,C006,Customer_047,Headphones,Electronics,Bengaluru,South,2,2342.88,0.1,4217.18,Debit Card,Completed
+ORD0165,2025-03-31,C066,Customer_068,Smartphone,Electronics,Pune,West,1,24021.06,0.1,21618.95,Debit Card,Returned
+ORD0166,2025-10-07,C031,Customer_088,Smartphone,Electronics,Mumbai,West,2,21097.01,0.05,40084.32,Cash,Returned
+ORD0167,2025-08-03,C008,Customer_042,Smartphone,Electronics,Ahmedabad,West,4,23993.2,0.2,76778.24,UPI,Returned
+ORD0168,2025-11-05,C075,Customer_062,Office Chair,Furniture,Mumbai,West,3,5976.07,0.2,14342.57,Debit Card,Completed
+ORD0169,2025-02-08,C086,Customer_038,Notebook,Stationery,Mumbai,West,1,74.56,0.05,70.83,Debit Card,Completed
+ORD0170,2025-05-28,C012,Customer_077,Backpack,Accessories,Chennai,South,2,1461.38,0.2,2338.21,UPI,Cancelled
+ORD0171,2025-03-27,C090,Customer_073,Laptop,Electronics,Mumbai,West,4,50827.21,0.2,162647.07,UPI,Completed
+ORD0172,2025-05-31,C007,Customer_045,Headphones,Electronics,Mumbai,West,5,2339.75,0.15,9943.94,UPI,Completed
+ORD0173,2025-09-30,C034,Customer_054,Mouse,Electronics,Chennai,South,1,752.44,0.2,601.95,Debit Card,Cancelled
+ORD0174,2025-12-10,C008,Customer_089,Headphones,Electronics,Delhi,North,2,2330.63,0.0,4661.26,UPI,Cancelled
+ORD0175,2025-05-24,C054,Customer_083,Office Chair,Furniture,Hyderabad,South,2,6538.67,0.1,11769.61,Debit Card,Completed
+ORD0176,2025-06-25,C084,Customer_096,Smartphone,Electronics,Delhi,North,1,23989.9,0.0,23989.9,UPI,Completed
+ORD0177,2025-11-16,C004,Customer_039,Office Chair,Furniture,Hyderabad,South,5,6179.14,0.05,29350.92,UPI,Completed
+ORD0178,2025-06-19,C098,Customer_041,Water Bottle,Accessories,Pune,West,2,459.73,0.0,919.46,Debit Card,Completed
+ORD0179,2025-10-26,C075,Customer_038,Pen Pack,Stationery,Mumbai,West,5,127.64,0.2,510.56,Debit Card,Returned
+ORD0180,2025-01-19,C094,Customer_035,Smartphone,Electronics,Jaipur,North,5,21302.1,0.1,95859.45,UPI,Cancelled
+ORD0181,2025-10-29,C022,Customer_022,Pen Pack,Stationery,Hyderabad,South,1,127.05,0.15,107.99,Net Banking,Completed
+ORD0182,2025-12-29,C029,Customer_029,Desk,Furniture,Delhi,North,4,8104.16,0.1,29174.98,Net Banking,Completed
+ORD0183,2025-10-15,C064,Customer_050,Office Chair,Furniture,Bengaluru,South,4,6048.02,0.0,24192.08,Credit Card,Completed
+ORD0184,2025-06-18,C031,Customer_066,Water Bottle,Accessories,Chennai,South,2,470.36,0.15,799.61,Cash,Completed
+ORD0185,2025-07-22,C018,Customer_010,Laptop,Electronics,Bengaluru,South,4,53269.85,0.2,170463.52,Cash,Returned
+ORD0186,2025-11-22,C075,Customer_075,Mouse,Electronics,Hyderabad,South,1,692.95,0.05,658.3,Credit Card,Returned
+ORD0187,2025-05-12,C095,Customer_072,Desk,Furniture,Hyderabad,South,4,8644.46,0.15,29391.16,Credit Card,Cancelled
+ORD0188,2025-09-20,C059,Customer_051,Backpack,Accessories,Bengaluru,South,3,1518.55,0.0,4555.65,Cash,Returned
+ORD0189,2025-09-12,C041,Customer_047,Office Chair,Furniture,Bengaluru,South,1,6295.07,0.15,5350.81,Debit Card,Completed
+ORD0190,2025-08-28,C074,Customer_067,Smartphone,Electronics,Jaipur,North,1,22736.96,0.0,22736.96,Credit Card,Completed
+ORD0191,2025-12-10,C087,Customer_076,Mouse,Electronics,Delhi,North,5,738.94,0.0,3694.7,Credit Card,Returned
+ORD0192,2025-02-20,C029,Customer_029,Pen Pack,Stationery,Mumbai,West,1,114.6,0.15,97.41,Credit Card,Cancelled
+ORD0193,2025-07-19,C071,Customer_077,Water Bottle,Accessories,Ahmedabad,West,4,453.79,0.05,1724.4,Net Banking,Completed
+ORD0194,2025-04-27,C072,Customer_098,Pen Pack,Stationery,Chennai,South,2,123.01,0.0,246.02,Debit Card,Completed
+ORD0195,2025-09-13,C088,Customer_097,Desk,Furniture,Chennai,South,3,8820.11,0.0,26460.33,Cash,Completed
+ORD0196,2025-04-28,C086,Customer_055,Desk,Furniture,Mumbai,West,5,9637.17,0.05,45776.56,Cash,Completed
+ORD0197,2025-05-28,C092,Customer_096,Desk,Furniture,Chennai,South,5,8539.57,0.05,40562.96,Net Banking,Completed
+ORD0198,2025-10-07,C024,Customer_077,Mouse,Electronics,Ahmedabad,West,5,734.3,0.2,2937.2,UPI,Completed
+ORD0199,2025-08-20,C029,Customer_031,Pen Pack,Stationery,Bengaluru,South,4,123.48,0.05,469.22,Credit Card,Completed
+ORD0200,2025-10-25,C030,Customer_087,Notebook,Stationery,Delhi,North,3,75.5,0.15,192.53,Debit Card,Completed
+ORD0201,2025-02-19,C084,Customer_024,Office Chair,Furniture,Pune,West,1,6886.76,0.05,6542.42,UPI,Cancelled
+ORD0202,2025-12-31,C029,Customer_020,Backpack,Accessories,Hyderabad,South,1,1467.02,0.1,1320.32,Net Banking,Completed
+ORD0203,2025-04-16,C099,Customer_064,Laptop,Electronics,Bengaluru,South,3,59761.91,0.15,152392.87,UPI,Returned
+ORD0204,2025-11-19,C023,Customer_067,Smartphone,Electronics,Hyderabad,South,4,20990.78,0.1,75566.81,Debit Card,Completed
+ORD0205,2025-07-04,C056,Customer_025,Backpack,Accessories,Jaipur,North,3,1477.05,0.0,4431.15,Debit Card,Completed
+ORD0206,2025-12-31,C004,Customer_052,Pen Pack,Stationery,Jaipur,North,4,131.81,0.0,527.24,UPI,Completed
+ORD0207,2025-04-19,C047,Customer_018,Pen Pack,Stationery,Chennai,South,1,115.64,0.2,92.51,Debit Card,Completed
+ORD0208,2025-10-15,C069,Customer_084,Laptop,Electronics,Delhi,North,4,53386.71,0.05,202869.5,Net Banking,Returned
+ORD0209,2025-09-18,C081,Customer_017,Water Bottle,Accessories,Bengaluru,South,2,472.39,0.05,897.54,Debit Card,Completed
+ORD0210,2025-02-05,C033,Customer_016,Mouse,Electronics,Delhi,North,1,753.07,0.2,602.46,Credit Card,Completed
+ORD0211,2025-02-01,C044,Customer_086,Headphones,Electronics,Pune,West,3,2250.26,0.0,6750.78,Cash,Completed
+ORD0212,2025-03-03,C003,Customer_015,Laptop,Electronics,Delhi,North,4,58554.4,0.05,222506.72,UPI,Returned
+ORD0213,2025-01-16,C010,Customer_043,Headphones,Electronics,Jaipur,North,3,2659.6,0.1,7180.92,Credit Card,Completed
+ORD0214,2025-07-04,C054,Customer_076,Backpack,Accessories,Hyderabad,South,2,1575.7,0.05,2993.83,Cash,Completed
+ORD0215,2025-08-25,C076,Customer_097,Office Chair,Furniture,Delhi,North,3,6120.89,0.05,17444.54,UPI,Cancelled
+ORD0216,2025-10-28,C007,Customer_040,Laptop,Electronics,Delhi,North,1,51428.81,0.0,51428.81,Cash,Returned
+ORD0217,2025-12-02,C040,Customer_019,Mouse,Electronics,Mumbai,West,5,692.82,0.15,2944.49,Net Banking,Returned
+ORD0218,2025-03-22,C048,Customer_066,Water Bottle,Accessories,Ahmedabad,West,5,422.31,0.15,1794.82,Net Banking,Completed
+ORD0219,2025-05-21,C083,Customer_038,Headphones,Electronics,Chennai,South,1,2525.45,0.1,2272.9,Cash,Completed
+ORD0220,2025-06-27,C062,Customer_027,Laptop,Electronics,Hyderabad,South,1,56117.14,0.05,53311.28,Credit Card,Completed
+ORD0221,2025-02-27,C039,Customer_076,Headphones,Electronics,Jaipur,North,1,2530.61,0.2,2024.49,Credit Card,Completed
+ORD0222,2025-09-04,C085,Customer_007,Notebook,Stationery,Mumbai,West,2,81.03,0.15,137.75,Credit Card,Completed
+ORD0223,2025-10-12,C018,Customer_084,Laptop,Electronics,Mumbai,West,3,56609.2,0.2,135862.08,Net Banking,Completed
+ORD0224,2025-01-22,C035,Customer_022,Desk,Furniture,Jaipur,North,3,9783.98,0.1,26416.75,Debit Card,Completed
+ORD0225,2025-11-22,C010,Customer_042,Desk,Furniture,Mumbai,West,2,8485.37,0.15,14425.13,Credit Card,Completed
+ORD0226,2025-11-11,C019,Customer_033,Desk,Furniture,Hyderabad,South,1,8342.45,0.15,7091.08,Credit Card,Completed
+ORD0227,2025-12-06,C062,Customer_042,Headphones,Electronics,Pune,West,3,2382.4,0.05,6789.84,Credit Card,Returned
+ORD0228,2025-02-09,C006,Customer_012,Mouse,Electronics,Pune,West,5,643.98,0.15,2736.91,Debit Card,Cancelled
+ORD0229,2025-02-07,C082,Customer_070,Desk,Furniture,Pune,West,1,9457.69,0.2,7566.15,Debit Card,Completed
+ORD0230,2025-04-29,C047,Customer_095,Water Bottle,Accessories,Bengaluru,South,1,441.11,0.0,441.11,UPI,Completed
+ORD0231,2025-04-30,C050,Customer_054,Water Bottle,Accessories,Jaipur,North,5,493.08,0.0,2465.4,Debit Card,Completed
+ORD0232,2025-08-02,C048,Customer_013,Water Bottle,Accessories,Ahmedabad,West,2,440.78,0.15,749.33,Cash,Completed
+ORD0233,2025-01-12,C059,Customer_058,Headphones,Electronics,Mumbai,West,5,2683.07,0.0,13415.35,Credit Card,Cancelled
+ORD0234,2025-12-05,C081,Customer_094,Desk,Furniture,Bengaluru,South,3,9239.67,0.05,26333.06,Cash,Completed
+ORD0235,2025-05-21,C047,Customer_030,Backpack,Accessories,Delhi,North,2,1520.38,0.1,2736.68,Cash,Completed
+ORD0236,2025-05-19,C054,Customer_010,Notebook,Stationery,Delhi,North,2,77.53,0.0,155.06,Credit Card,Completed
+ORD0237,2025-10-12,C057,Customer_076,Notebook,Stationery,Chennai,South,5,75.43,0.05,358.29,Cash,Completed
+ORD0238,2025-08-07,C011,Customer_067,Headphones,Electronics,Hyderabad,South,5,2713.75,0.0,13568.75,Net Banking,Completed
+ORD0239,2025-12-03,C058,Customer_098,Pen Pack,Stationery,Ahmedabad,West,5,130.17,0.05,618.31,UPI,Cancelled
+ORD0240,2025-01-10,C034,Customer_075,Laptop,Electronics,Ahmedabad,West,4,55689.35,0.0,222757.4,UPI,Returned
+ORD0241,2025-07-27,C079,Customer_094,Headphones,Electronics,Bengaluru,South,2,2252.74,0.1,4054.93,Credit Card,Returned
+ORD0242,2025-04-09,C068,Customer_017,Mouse,Electronics,Ahmedabad,West,2,709.11,0.0,1418.22,Debit Card,Cancelled
+ORD0243,2025-01-28,C097,Customer_080,Smartphone,Electronics,Bengaluru,South,2,24047.83,0.1,43286.09,Net Banking,Returned
+ORD0244,2025-05-17,C012,Customer_011,Smartphone,Electronics,Ahmedabad,West,3,23663.85,0.1,63892.39,Credit Card,Returned
+ORD0245,2025-09-24,C061,Customer_092,Notebook,Stationery,Bengaluru,South,2,87.71,0.1,157.88,Debit Card,Returned
+ORD0246,2025-10-18,C023,Customer_084,Office Chair,Furniture,Mumbai,West,3,6003.92,0.2,14409.41,UPI,Completed
+ORD0247,2025-12-10,C053,Customer_051,Backpack,Accessories,Delhi,North,4,1357.19,0.2,4343.01,Debit Card,Completed
+ORD0248,2025-05-18,C080,Customer_062,Pen Pack,Stationery,Hyderabad,South,1,124.04,0.0,124.04,UPI,Completed
+ORD0249,2025-06-13,C014,Customer_058,Notebook,Stationery,Bengaluru,South,5,75.43,0.1,339.44,UPI,Completed
+ORD0250,2025-05-28,C023,Customer_081,Office Chair,Furniture,Mumbai,West,1,7081.52,0.0,7081.52,Debit Card,Returned
+ORD0251,2025-11-19,C064,Customer_036,Headphones,Electronics,Pune,West,3,2685.7,0.15,6848.53,Debit Card,Completed
+ORD0252,2025-12-29,C048,Customer_096,Desk,Furniture,Delhi,North,1,9062.28,0.05,8609.17,Cash,Completed
+ORD0253,2025-05-22,C005,Customer_032,Headphones,Electronics,Chennai,South,3,2701.49,0.05,7699.25,Net Banking,Cancelled
+ORD0254,2025-11-01,C094,Customer_016,Mouse,Electronics,Ahmedabad,West,1,638.38,0.0,638.38,Cash,Completed
+ORD0255,2025-10-17,C045,Customer_099,Laptop,Electronics,Ahmedabad,West,5,53869.57,0.1,242413.06,UPI,Completed
+ORD0256,2025-04-15,C020,Customer_097,Water Bottle,Accessories,Delhi,North,2,422.04,0.1,759.67,UPI,Completed
+ORD0257,2025-02-16,C098,Customer_062,Pen Pack,Stationery,Jaipur,North,1,127.92,0.15,108.73,Net Banking,Completed
+ORD0258,2025-07-19,C039,Customer_055,Water Bottle,Accessories,Chennai,South,1,476.62,0.05,452.79,Net Banking,Returned
+ORD0259,2025-06-16,C046,Customer_087,Headphones,Electronics,Ahmedabad,West,3,2491.47,0.15,6353.25,Credit Card,Completed
+ORD0260,2025-01-29,C057,Customer_078,Office Chair,Furniture,Mumbai,West,2,5966.68,0.15,10143.36,Cash,Completed
+ORD0261,2025-04-26,C016,Customer_087,Smartphone,Electronics,Ahmedabad,West,5,19954.77,0.15,84807.77,Credit Card,Completed
+ORD0262,2025-12-08,C088,Customer_098,Water Bottle,Accessories,Jaipur,North,2,451.42,0.1,767.41,UPI,Completed
+ORD0263,2025-02-24,C020,Customer_015,Notebook,Stationery,Pune,West,2,73.01,0.1,146.02,Debit Card,Completed
+ORD0264,2025-03-15,C051,Customer_081,Water Bottle,Accessories,Delhi,North,3,461.34,0.15,1176.42,Net Banking,Cancelled
+ORD0265,2025-02-10,C010,Customer_048,Pen Pack,Stationery,Unknown,North,4,116.35,0.2,372.32,Credit Card,Completed
+ORD0266,2025-10-09,C013,Customer_055,Desk,Furniture,Hyderabad,South,5,8780.96,0.05,41709.56,Debit Card,Completed
+ORD0267,2025-03-01,C044,Customer_081,Pen Pack,Stationery,Delhi,North,1,124.15,0.15,105.53,Credit Card,Cancelled
+ORD0268,2025-03-10,C083,Customer_011,Backpack,Accessories,Ahmedabad,West,1,1631.0,0.15,1386.35,Debit Card,Completed
+ORD0269,2025-04-12,C100,Customer_010,Notebook,Stationery,Hyderabad,South,1,78.99,0.1,71.09,Debit Card,Completed
+ORD0270,2025-08-05,C025,Customer_023,Desk,Furniture,Ahmedabad,West,3,8220.29,0.15,20961.74,Cash,Cancelled
+ORD0271,2025-06-30,C090,Customer_029,Pen Pack,Stationery,Pune,West,3,119.26,0.2,286.22,Debit Card,Cancelled
+ORD0272,2025-10-13,C091,Customer_043,Laptop,Electronics,Jaipur,North,5,56630.02,0.15,240677.58,Debit Card,Cancelled
+ORD0273,2025-06-08,C067,Customer_078,Smartphone,Electronics,Jaipur,North,4,21329.76,0.15,72521.18,Cash,Returned
+ORD0274,2025-10-24,C037,Customer_051,Water Bottle,Accessories,Chennai,South,2,443.26,0.15,753.54,UPI,Cancelled
+ORD0275,2025-05-08,C014,Customer_039,Desk,Furniture,Bengaluru,South,3,9441.37,0.05,26907.9,UPI,Completed
+ORD0276,2025-04-10,C057,Customer_012,Pen Pack,Stationery,Pune,West,4,129.47,0.15,440.2,UPI,Returned
+ORD0277,2025-04-30,C053,Customer_019,Mouse,Electronics,Mumbai,West,2,670.79,0.0,1341.58,Net Banking,Cancelled
+ORD0278,2025-05-11,C079,Customer_048,Backpack,Accessories,Mumbai,West,4,1402.55,0.15,4768.67,Net Banking,Completed
+ORD0279,2025-09-16,C056,Customer_083,Office Chair,Furniture,Delhi,North,2,6015.46,0.05,11429.37,Cash,Completed
+ORD0280,2025-10-01,C011,Customer_082,Laptop,Electronics,Bengaluru,South,3,58104.32,0.1,156881.66,Credit Card,Completed
+ORD0281,2025-03-08,C018,Customer_024,Desk,Furniture,Jaipur,North,2,8749.46,0.05,16623.97,Debit Card,Completed
+ORD0282,2025-04-25,C019,Customer_028,Office Chair,Furniture,Chennai,South,2,6827.31,0.0,13654.62,Credit Card,Completed
+ORD0283,2025-11-25,C024,Customer_054,Laptop,Electronics,Bengaluru,South,4,53562.0,0.1,203535.6,Cash,Completed
+ORD0284,2025-11-13,C063,Customer_100,Water Bottle,Accessories,Delhi,North,3,462.87,0.0,1388.61,Debit Card,Cancelled
+ORD0285,2025-05-11,C047,Customer_077,Desk,Furniture,Ahmedabad,West,5,9524.61,0.2,38098.44,UPI,Cancelled
+ORD0286,2025-05-29,C046,Customer_057,Laptop,Electronics,Hyderabad,South,3,54937.46,0.1,148331.14,Cash,Completed
+ORD0287,2025-03-13,C080,Customer_007,Pen Pack,Stationery,Jaipur,North,5,113.4,0.0,567.0,Net Banking,Cancelled
+ORD0288,2025-04-25,C013,Customer_041,Water Bottle,Accessories,Chennai,South,5,485.09,0.0,2425.45,Cash,Completed
+ORD0289,2025-12-30,C056,Customer_062,Mouse,Electronics,Hyderabad,South,4,678.25,0.2,2170.4,Credit Card,Completed
+ORD0290,2025-12-13,C077,Customer_041,Smartphone,Electronics,Mumbai,West,1,20054.96,0.15,17046.72,UPI,Returned
+ORD0291,2025-03-24,C082,Customer_098,Laptop,Electronics,Chennai,South,4,51430.08,0.0,205720.32,Credit Card,Returned
+ORD0292,2025-10-25,C043,Customer_024,Water Bottle,Accessories,Jaipur,North,1,465.99,0.2,372.79,Net Banking,Completed
+ORD0293,2025-12-26,C044,Customer_070,Office Chair,Furniture,Ahmedabad,West,3,6408.94,0.05,18265.48,Credit Card,Cancelled
+ORD0294,2025-11-01,C085,Customer_022,Backpack,Accessories,Hyderabad,South,4,1463.5,0.15,4975.9,Cash,Completed
+ORD0295,2025-03-18,C021,Customer_090,Notebook,Stationery,Hyderabad,South,2,72.62,0.2,116.19,Debit Card,Cancelled
+ORD0296,2025-09-30,C016,Customer_038,Mouse,Electronics,Jaipur,North,1,685.33,0.05,651.06,Credit Card,Completed
+ORD0297,2025-09-28,C087,Customer_053,Smartphone,Electronics,Mumbai,West,3,21909.44,0.1,59155.49,Cash,Cancelled
+ORD0298,2025-05-28,C025,Customer_093,Pen Pack,Stationery,Mumbai,West,5,117.88,0.15,500.99,UPI,Completed
+ORD0299,2025-06-01,C047,Customer_014,Water Bottle,Accessories,Chennai,South,1,413.8,0.15,351.73,Credit Card,Completed
+ORD0300,2025-10-18,C022,Customer_091,Smartphone,Electronics,Bengaluru,South,3,21073.49,0.0,63220.47,Debit Card,Returned
+ORD0301,2025-04-11,C014,Customer_003,Pen Pack,Stationery,Delhi,North,4,114.11,0.05,433.62,Net Banking,Completed
+ORD0302,2025-05-26,C026,Customer_004,Desk,Furniture,Ahmedabad,West,2,9624.01,0.15,16360.82,UPI,Completed
+ORD0303,2025-05-24,C092,Customer_062,Backpack,Accessories,Chennai,South,3,1413.28,0.15,3603.86,Net Banking,Completed
+ORD0304,2025-11-13,C055,Customer_031,Mouse,Electronics,Pune,West,2,637.08,0.2,1019.33,UPI,Cancelled
+ORD0305,2025-02-28,C094,Customer_011,Notebook,Stationery,Jaipur,North,4,84.49,0.0,337.96,Cash,Returned
+ORD0306,2025-09-29,C005,Customer_083,Desk,Furniture,Pune,West,5,9049.42,0.2,36197.68,UPI,Cancelled
+ORD0307,2025-04-23,C051,Customer_068,Pen Pack,Stationery,Delhi,North,3,113.72,0.0,341.16,Debit Card,Completed
+ORD0308,2025-11-30,C080,Customer_025,Notebook,Stationery,Jaipur,North,2,84.59,0.2,135.34,Cash,Cancelled
+ORD0309,2025-05-03,C080,Customer_046,Headphones,Electronics,Chennai,South,2,2344.27,0.1,4219.69,Net Banking,Completed
+ORD0310,2025-05-09,C036,Customer_064,Backpack,Accessories,Jaipur,North,5,1645.26,0.05,7814.98,Cash,Completed
+ORD0311,2025-08-13,C088,Customer_010,Laptop,Electronics,Ahmedabad,West,2,54036.12,0.0,108072.24,Credit Card,Completed
+ORD0312,2025-11-19,C078,Customer_031,Backpack,Accessories,Hyderabad,South,2,1643.99,0.1,2959.18,Credit Card,Cancelled
+ORD0313,2025-12-08,C083,Customer_095,Headphones,Electronics,Delhi,North,2,2579.24,0.15,4384.71,UPI,Completed
+ORD0314,2025-06-30,C048,Customer_006,Headphones,Electronics,Ahmedabad,West,4,2531.76,0.15,8607.98,Debit Card,Completed
+ORD0315,2025-06-01,C095,Customer_087,Mouse,Electronics,Jaipur,North,4,685.5,0.0,2742.0,UPI,Completed
+ORD0316,2025-09-30,C074,Customer_089,Backpack,Accessories,Hyderabad,South,2,1609.98,0.05,3058.96,Credit Card,Completed
+ORD0317,2025-10-18,C024,Customer_041,Notebook,Stationery,Hyderabad,South,3,75.93,0.15,193.62,UPI,Completed
+ORD0318,2025-09-29,C093,Customer_054,Water Bottle,Accessories,Bengaluru,South,4,462.2,0.05,1756.36,UPI,Completed
+ORD0319,2025-01-07,C089,Customer_084,Smartphone,Electronics,Bengaluru,South,1,20686.75,0.15,17583.74,Net Banking,Completed
+ORD0320,2025-12-21,C017,Customer_091,Office Chair,Furniture,Ahmedabad,West,3,6033.34,0.05,17195.02,Cash,Returned
+ORD0321,2025-02-18,C010,Customer_019,Mouse,Electronics,Delhi,North,5,659.65,0.0,3298.25,UPI,Completed
+ORD0322,2025-02-18,C053,Customer_083,Laptop,Electronics,Pune,West,5,50314.63,0.0,251573.15,Cash,Completed
+ORD0323,2025-04-23,C064,Customer_044,Laptop,Electronics,Jaipur,North,1,59203.93,0.15,50323.34,Debit Card,Returned
+ORD0324,2025-06-20,C007,Customer_017,Backpack,Accessories,Bengaluru,South,3,1453.82,0.0,4361.46,Debit Card,Cancelled
+ORD0325,2025-10-19,C085,Customer_069,Backpack,Accessories,Delhi,North,3,1423.91,0.0,4271.73,Credit Card,Returned
+ORD0326,2025-10-07,C021,Customer_031,Pen Pack,Stationery,Chennai,South,5,109.87,0.2,439.48,Cash,Completed
+ORD0327,2025-12-26,C057,Customer_025,Desk,Furniture,Chennai,South,4,8631.03,0.2,27619.3,Credit Card,Completed
+ORD0328,2025-08-16,C093,Customer_014,Notebook,Stationery,Delhi,North,4,81.77,0.0,327.08,Credit Card,Cancelled
+ORD0329,2025-10-02,C045,Customer_006,Pen Pack,Stationery,Chennai,South,3,109.78,0.15,279.94,Debit Card,Completed
+ORD0330,2025-09-29,C078,Customer_024,Laptop,Electronics,Ahmedabad,West,2,54350.59,0.2,86960.94,Net Banking,Returned
+ORD0331,2025-07-17,C050,Customer_009,Desk,Furniture,Hyderabad,South,1,8950.6,0.15,7608.01,Cash,Cancelled
+ORD0332,2025-08-08,C100,Customer_074,Water Bottle,Accessories,Ahmedabad,West,3,452.58,0.15,1154.08,UPI,Completed
+ORD0333,2025-05-03,C050,Customer_056,Desk,Furniture,Hyderabad,South,4,9759.03,0.1,35132.51,Debit Card,Returned
+ORD0334,2025-03-21,C015,Customer_010,Water Bottle,Accessories,Hyderabad,South,3,421.28,0.1,1137.46,Debit Card,Completed
+ORD0335,2025-09-16,C004,Customer_022,Pen Pack,Stationery,Bengaluru,South,2,125.6,0.15,213.52,Debit Card,Returned
+ORD0336,2025-08-17,C020,Customer_033,Smartphone,Electronics,Pune,West,5,20536.41,0.1,92413.85,Credit Card,Cancelled
+ORD0337,2025-04-02,C091,Customer_095,Office Chair,Furniture,Bengaluru,South,2,6149.88,0.15,10454.8,Debit Card,Completed
+ORD0338,2025-03-23,C073,Customer_029,Backpack,Accessories,Bengaluru,South,5,1649.65,0.2,6598.6,Credit Card,Completed
+ORD0339,2025-01-04,C100,Customer_011,Pen Pack,Stationery,Delhi,North,4,131.84,0.1,474.62,Debit Card,Completed
+ORD0340,2025-03-16,C038,Customer_053,Pen Pack,Stationery,Chennai,South,5,130.39,0.05,619.35,Cash,Returned
+ORD0341,2025-06-13,C099,Customer_092,Headphones,Electronics,Delhi,North,5,2742.81,0.1,12342.65,Net Banking,Completed
+ORD0342,2025-07-19,C009,Customer_057,Backpack,Accessories,Ahmedabad,West,2,1446.26,0.15,2458.64,UPI,Completed
+ORD0343,2025-10-22,C034,Customer_043,Notebook,Stationery,Chennai,South,3,83.99,0.1,226.77,Credit Card,Completed
+ORD0344,2025-06-12,C006,Customer_023,Smartphone,Electronics,Bengaluru,South,1,23542.29,0.2,18833.83,UPI,Cancelled
+ORD0345,2025-02-10,C018,Customer_026,Water Bottle,Accessories,Hyderabad,South,1,433.47,0.0,433.47,Cash,Returned
+ORD0346,2025-08-01,C081,Customer_003,Headphones,Electronics,Chennai,South,1,2277.47,0.2,1821.98,UPI,Returned
+ORD0347,2025-09-04,C045,Customer_039,Smartphone,Electronics,Mumbai,West,3,21756.63,0.1,55479.41,UPI,Completed
+ORD0348,2025-03-07,C060,Customer_091,Mouse,Electronics,Chennai,South,5,631.54,0.1,2841.93,Credit Card,Completed
+ORD0349,2025-02-21,C073,Customer_020,Pen Pack,Stationery,Mumbai,West,5,123.84,0.05,588.24,Debit Card,Returned
+ORD0350,2025-06-24,C078,Customer_036,Water Bottle,Accessories,Jaipur,North,3,432.02,0.2,1036.85,Cash,Completed
+ORD0351,2025-05-12,C002,Customer_033,Backpack,Accessories,Pune,West,1,1563.42,0.05,1485.25,Debit Card,Completed
+ORD0352,2025-10-23,C023,Customer_072,Pen Pack,Stationery,Mumbai,West,4,126.64,0.1,455.9,UPI,Completed
+ORD0353,2025-03-07,C005,Customer_087,Mouse,Electronics,Bengaluru,South,4,664.38,0.15,2258.89,Credit Card,Completed
+ORD0354,2025-10-28,C057,Customer_093,Desk,Furniture,Mumbai,West,3,8418.0,0.0,25254.0,Debit Card,Completed
+ORD0355,2025-07-09,C096,Customer_051,Pen Pack,Stationery,Ahmedabad,West,3,130.2,0.0,390.6,UPI,Returned
+ORD0356,2025-12-21,C020,Customer_056,Backpack,Accessories,Chennai,South,5,1621.77,0.05,7703.41,Cash,Completed
+ORD0357,2025-06-25,C042,Customer_064,Laptop,Electronics,Jaipur,North,1,56262.1,0.15,47822.78,Debit Card,Completed
+ORD0358,2025-09-24,C019,Customer_085,Smartphone,Electronics,Chennai,South,4,20130.08,0.15,68442.27,Debit Card,Completed
+ORD0359,2025-02-17,C074,Customer_003,Backpack,Accessories,Hyderabad,South,3,1640.84,0.05,4676.39,Credit Card,Returned
+ORD0360,2025-12-11,C053,Customer_074,Smartphone,Electronics,Unknown,South,2,21841.26,0.1,39314.27,UPI,Completed
+ORD0361,2025-10-14,C025,Customer_059,Water Bottle,Accessories,Jaipur,North,4,481.65,0.05,1830.27,Cash,Completed
+ORD0362,2025-12-27,C055,Customer_016,Water Bottle,Accessories,Pune,West,2,467.36,0.15,794.51,Debit Card,Completed
+ORD0363,2025-06-01,C048,Customer_076,Pen Pack,Stationery,Chennai,South,5,109.71,0.05,521.12,Cash,Completed
+ORD0364,2025-07-09,C032,Customer_085,Headphones,Electronics,Hyderabad,South,2,2672.85,0.15,4543.84,UPI,Completed
+ORD0365,2025-05-09,C089,Customer_069,Mouse,Electronics,Ahmedabad,West,2,646.23,0.15,1098.59,Debit Card,Completed
+ORD0366,2025-01-18,C055,Customer_029,Smartphone,Electronics,Delhi,North,1,22825.15,0.0,22825.15,Debit Card,Completed
+ORD0367,2025-04-09,C028,Customer_043,Headphones,Electronics,Bengaluru,South,4,2510.94,0.1,9039.38,UPI,Cancelled
+ORD0368,2025-02-09,C042,Customer_002,Pen Pack,Stationery,Delhi,North,2,123.63,0.15,210.17,Debit Card,Completed
+ORD0369,2025-01-03,C038,Customer_085,Office Chair,Furniture,Bengaluru,South,2,6903.39,0.05,13116.44,Debit Card,Completed
+ORD0370,2025-05-06,C086,Customer_043,Notebook,Stationery,Mumbai,West,1,80.24,0.15,68.2,Cash,Completed
+ORD0371,2025-12-24,C061,Customer_025,Laptop,Electronics,Jaipur,North,5,49744.96,0.2,198979.84,Cash,Returned
+ORD0372,2025-12-06,C099,Customer_099,Headphones,Electronics,Jaipur,North,4,2566.18,0.05,9751.48,Cash,Completed
+ORD0373,2025-10-17,C034,Customer_010,Office Chair,Furniture,Bengaluru,South,5,6040.77,0.1,27183.47,Net Banking,Completed
+ORD0374,2025-04-29,C001,Customer_048,Laptop,Electronics,Pune,West,3,58769.2,0.1,158676.84,UPI,Returned
+ORD0375,2025-09-22,C095,Customer_099,Headphones,Electronics,Bengaluru,South,1,2275.86,0.0,2275.86,Credit Card,Cancelled
+ORD0376,2025-12-06,C074,Customer_051,Notebook,Stationery,Pune,West,1,78.78,0.0,78.78,Net Banking,Returned
+ORD0377,2025-03-01,C045,Customer_013,Water Bottle,Accessories,Delhi,North,5,482.36,0.1,2170.62,Credit Card,Completed
+ORD0378,2025-12-23,C023,Customer_019,Mouse,Electronics,Jaipur,North,2,704.3,0.2,1126.88,Cash,Completed
+ORD0379,2025-09-18,C069,Customer_047,Smartphone,Electronics,Pune,West,3,20680.81,0.05,58940.31,UPI,Completed
+ORD0380,2025-05-08,C031,Customer_072,Pen Pack,Stationery,Delhi,North,2,116.53,0.1,209.75,Debit Card,Completed
+ORD0381,2025-04-08,C022,Customer_005,Pen Pack,Stationery,Delhi,North,1,121.73,0.2,97.38,Net Banking,Completed
+ORD0382,2025-02-15,C096,Customer_024,Office Chair,Furniture,Chennai,South,1,6492.98,0.1,5843.68,Cash,Cancelled
+ORD0383,2025-03-24,C061,Customer_016,Office Chair,Furniture,Mumbai,West,2,7067.98,0.2,11308.77,Cash,Completed
+ORD0384,2025-03-01,C012,Customer_052,Backpack,Accessories,Chennai,South,5,1452.46,0.1,6536.07,Net Banking,Completed
+ORD0385,2025-01-27,C093,Customer_061,Backpack,Accessories,Mumbai,West,3,1354.24,0.15,3453.31,Credit Card,Completed
+ORD0386,2025-04-10,C083,Customer_004,Laptop,Electronics,Ahmedabad,West,1,52142.74,0.05,49535.6,Credit Card,Completed
+ORD0387,2025-12-24,C034,Customer_035,Headphones,Electronics,Mumbai,West,5,2442.58,0.05,11602.25,Credit Card,Completed
+ORD0388,2025-10-04,C060,Customer_100,Laptop,Electronics,Hyderabad,South,1,51723.26,0.05,49137.1,Credit Card,Returned
+ORD0389,2025-01-13,C078,Customer_007,Laptop,Electronics,Hyderabad,South,4,52960.4,0.1,190657.44,Cash,Cancelled
+ORD0390,2025-10-07,C072,Customer_081,Mouse,Electronics,Bengaluru,South,5,690.81,0.0,3454.05,Cash,Completed
+ORD0391,2025-06-12,C078,Customer_004,Laptop,Electronics,Ahmedabad,West,3,60436.96,0.0,181310.88,UPI,Completed
+ORD0392,2025-10-19,C081,Customer_061,Pen Pack,Stationery,Mumbai,West,1,126.48,0.15,107.51,Debit Card,Returned
+ORD0393,2025-11-07,C005,Customer_066,Office Chair,Furniture,Pune,West,4,6388.43,0.05,24276.03,Debit Card,Completed
+ORD0394,2025-11-17,C019,Customer_028,Headphones,Electronics,Ahmedabad,West,2,2462.55,0.0,4925.1,Net Banking,Returned
+ORD0395,2025-01-19,C042,Customer_047,Water Bottle,Accessories,Bengaluru,South,4,450.23,0.05,1710.87,Credit Card,Completed
+ORD0396,2025-07-26,C056,Customer_042,Notebook,Stationery,Pune,West,1,77.63,0.15,65.99,Debit Card,Returned
+ORD0397,2025-07-01,C097,Customer_058,Water Bottle,Accessories,Delhi,North,4,475.62,0.2,1521.98,Net Banking,Completed
+ORD0398,2025-10-26,C031,Customer_059,Smartphone,Electronics,Ahmedabad,West,3,20547.91,0.05,58561.54,Credit Card,Completed
+ORD0399,2025-05-20,C073,Customer_027,Smartphone,Electronics,Ahmedabad,West,5,22280.99,0.0,111404.95,UPI,Completed
+ORD0400,2025-07-06,C030,Customer_026,Notebook,Stationery,Mumbai,West,5,73.08,0.1,328.86,UPI,Cancelled
+ORD0401,2025-04-05,C019,Customer_027,Office Chair,Furniture,Pune,West,2,7013.15,0.2,11221.04,Credit Card,Completed
+ORD0402,2025-02-27,C072,Customer_011,Notebook,Stationery,Delhi,North,4,79.08,0.1,284.69,Cash,Returned
+ORD0403,2025-10-09,C093,Customer_093,Backpack,Accessories,Bengaluru,South,2,1494.71,0.2,2391.54,UPI,Returned
+ORD0404,2025-04-25,C033,Customer_036,Smartphone,Electronics,Hyderabad,South,5,23968.97,0.05,113852.61,Cash,Completed
+ORD0405,2025-11-10,C026,Customer_048,Backpack,Accessories,Bengaluru,South,2,1619.51,0.0,3239.02,Cash,Cancelled
+ORD0406,2025-05-04,C059,Customer_066,Laptop,Electronics,Hyderabad,South,1,56691.04,0.0,56691.04,Debit Card,Completed
+ORD0407,2025-06-28,C014,Customer_086,Backpack,Accessories,Ahmedabad,West,5,1612.88,0.15,6854.74,Credit Card,Returned
+ORD0408,2025-01-23,C047,Customer_037,Office Chair,Furniture,Jaipur,North,3,6235.93,0.2,14966.23,Debit Card,Completed
+ORD0409,2025-04-23,C063,Customer_033,Pen Pack,Stationery,Bengaluru,South,1,114.29,0.0,114.29,Credit Card,Completed
+ORD0410,2025-05-19,C029,Customer_059,Office Chair,Furniture,Chennai,South,3,6853.42,0.0,20560.26,Credit Card,Returned
+ORD0411,2025-05-09,C006,Customer_072,Headphones,Electronics,Hyderabad,South,1,2646.84,0.2,2117.47,Debit Card,Returned
+ORD0412,2025-02-03,C045,Customer_057,Pen Pack,Stationery,Hyderabad,South,5,119.0,0.0,595.0,UPI,Completed
+ORD0413,2025-11-01,C087,Customer_060,Backpack,Accessories,Jaipur,North,1,1567.03,0.1,1410.33,Cash,Returned
+ORD0414,2025-11-14,C005,Customer_004,Pen Pack,Stationery,Bengaluru,South,4,128.22,0.1,461.59,UPI,Completed
+ORD0415,2025-06-28,C043,Customer_003,Backpack,Accessories,Mumbai,West,1,1544.52,0.2,1235.62,UPI,Returned
+ORD0416,2025-02-04,C050,Customer_089,Office Chair,Furniture,Chennai,South,4,6115.67,0.15,20793.28,Cash,Cancelled
+ORD0417,2025-03-02,C071,Customer_059,Laptop,Electronics,Mumbai,West,2,60192.77,0.05,114366.26,Cash,Completed
+ORD0418,2025-09-23,C062,Customer_005,Office Chair,Furniture,Unknown,South,2,5901.38,0.0,11802.76,Net Banking,Completed
+ORD0419,2025-03-18,C048,Customer_025,Water Bottle,Accessories,Chennai,South,5,473.09,0.2,1892.36,Debit Card,Returned
+ORD0420,2025-06-07,C030,Customer_060,Desk,Furniture,Pune,West,2,9039.09,0.1,16270.36,Cash,Returned
+ORD0421,2025-01-02,C019,Customer_077,Pen Pack,Stationery,Ahmedabad,West,5,117.23,0.0,586.15,Credit Card,Completed
+ORD0422,2025-07-01,C062,Customer_092,Headphones,Electronics,Delhi,North,1,2632.04,0.2,2105.63,Net Banking,Completed
+ORD0423,2025-04-17,C027,Customer_040,Water Bottle,Accessories,Pune,West,1,412.22,0.1,371.0,Net Banking,Completed
+ORD0424,2025-07-01,C084,Customer_059,Headphones,Electronics,Pune,West,1,2536.82,0.1,2283.14,UPI,Completed
+ORD0425,2025-02-04,C069,Customer_022,Office Chair,Furniture,Jaipur,North,2,6406.91,0.0,12813.82,Net Banking,Returned
+ORD0426,2025-03-04,C070,Customer_007,Office Chair,Furniture,Hyderabad,South,3,5939.88,0.05,16928.66,Debit Card,Cancelled
+ORD0427,2025-12-28,C087,Customer_071,Water Bottle,Accessories,Delhi,North,1,410.98,0.15,349.33,Net Banking,Completed
+ORD0428,2025-11-08,C074,Customer_024,Laptop,Electronics,Delhi,North,1,50119.18,0.1,45107.26,Debit Card,Completed
+ORD0429,2025-01-11,C051,Customer_089,Backpack,Accessories,Bengaluru,South,2,1496.67,0.15,2544.34,Net Banking,Completed
+ORD0430,2025-06-24,C010,Customer_089,Smartphone,Electronics,Hyderabad,South,5,20027.7,0.05,95131.57,UPI,Cancelled
+ORD0431,2025-01-23,C037,Customer_035,Water Bottle,Accessories,Chennai,South,4,442.67,0.05,1682.15,Debit Card,Completed
+ORD0432,2025-04-02,C087,Customer_037,Desk,Furniture,Bengaluru,South,2,8649.87,0.15,14704.78,UPI,Completed
+ORD0433,2025-06-14,C070,Customer_097,Mouse,Electronics,Jaipur,North,2,648.73,0.15,1102.84,Net Banking,Completed
+ORD0434,2025-01-18,C030,Customer_077,Headphones,Electronics,Bengaluru,South,1,2254.31,0.0,2254.31,UPI,Returned
+ORD0435,2025-11-07,C060,Customer_035,Headphones,Electronics,Pune,West,2,2285.93,0.15,3886.08,Cash,Returned
+ORD0436,2025-12-28,C098,Customer_026,Office Chair,Furniture,Hyderabad,South,1,6623.75,0.0,6623.75,Credit Card,Completed
+ORD0437,2025-03-22,C080,Customer_070,Notebook,Stationery,Pune,West,2,81.54,0.1,146.77,Cash,Completed
+ORD0438,2025-07-22,C075,Customer_030,Mouse,Electronics,Bengaluru,South,5,664.62,0.1,2990.79,Net Banking,Completed
+ORD0439,2025-07-02,C042,Customer_020,Notebook,Stationery,Ahmedabad,West,3,87.59,0.15,223.35,Debit Card,Returned
+ORD0440,2025-07-12,C014,Customer_007,Desk,Furniture,Delhi,North,1,8526.06,0.2,6820.85,Net Banking,Returned
+ORD0441,2025-11-02,C010,Customer_016,Backpack,Accessories,Pune,West,1,1579.6,0.0,1579.6,Net Banking,Returned
+ORD0442,2025-08-19,C027,Customer_076,Backpack,Accessories,Pune,West,1,1557.55,0.2,1246.04,UPI,Returned
+ORD0443,2025-12-03,C070,Customer_020,Mouse,Electronics,Chennai,South,5,675.14,0.1,3038.13,Net Banking,Completed
+ORD0444,2025-10-03,C039,Customer_100,Notebook,Stationery,Mumbai,West,4,78.99,0.15,268.57,Debit Card,Completed
+ORD0445,2025-11-02,C058,Customer_006,Laptop,Electronics,Mumbai,West,4,54795.13,0.1,197262.47,UPI,Completed
+ORD0446,2025-08-28,C063,Customer_073,Desk,Furniture,Jaipur,North,3,9153.34,0.05,26087.02,UPI,Cancelled
+ORD0447,2025-01-10,C061,Customer_078,Headphones,Electronics,Jaipur,North,4,2518.75,0.15,8563.75,UPI,Completed
+ORD0448,2025-09-05,C034,Customer_010,Headphones,Electronics,Jaipur,North,3,2686.49,0.1,7253.52,Credit Card,Completed
+ORD0449,2025-05-19,C060,Customer_097,Smartphone,Electronics,Mumbai,West,1,23440.74,0.15,19924.63,Debit Card,Completed
+ORD0450,2025-09-22,C037,Customer_052,Office Chair,Furniture,Chennai,South,3,6973.34,0.0,20920.02,Credit Card,Completed
+ORD0451,2025-02-28,C038,Customer_092,Office Chair,Furniture,Pune,West,4,6100.93,0.0,24403.72,Net Banking,Completed
+ORD0452,2025-05-04,C004,Customer_082,Notebook,Stationery,Ahmedabad,West,2,73.69,0.05,140.01,Net Banking,Completed
+ORD0453,2025-12-04,C061,Customer_091,Mouse,Electronics,Jaipur,North,5,645.51,0.2,2582.04,Net Banking,Completed
+ORD0454,2025-11-19,C065,Customer_053,Desk,Furniture,Mumbai,West,1,9761.94,0.2,7809.55,Net Banking,Completed
+ORD0455,2025-03-14,C004,Customer_063,Pen Pack,Stationery,Mumbai,West,4,119.97,0.2,383.9,Cash,Cancelled
+ORD0456,2025-01-20,C060,Customer_095,Water Bottle,Accessories,Bengaluru,South,5,429.95,0.2,1719.8,Cash,Returned
+ORD0457,2025-09-07,C042,Customer_088,Laptop,Electronics,Hyderabad,South,4,54588.6,0.15,185601.24,UPI,Completed
+ORD0458,2025-02-23,C003,Customer_023,Laptop,Electronics,Chennai,South,2,58703.05,0.05,111535.79,Net Banking,Completed
+ORD0459,2025-10-22,C037,Customer_078,Water Bottle,Accessories,Mumbai,West,2,455.7,0.0,911.4,Cash,Completed
+ORD0460,2025-11-26,C095,Customer_083,Water Bottle,Accessories,Bengaluru,South,1,487.21,0.0,487.21,Credit Card,Cancelled
+ORD0461,2025-07-12,C002,Customer_004,Notebook,Stationery,Hyderabad,South,4,83.05,0.15,282.37,Net Banking,Returned
+ORD0462,2025-01-05,C081,Customer_051,Notebook,Stationery,Mumbai,West,4,78.04,0.05,296.55,Credit Card,Completed
+ORD0463,2025-02-20,C053,Customer_089,Laptop,Electronics,Bengaluru,South,3,52248.09,0.05,148907.06,Credit Card,Completed
+ORD0464,2025-04-18,C056,Customer_055,Water Bottle,Accessories,Bengaluru,South,1,433.77,0.2,347.02,Credit Card,Completed
+ORD0465,2025-07-20,C070,Customer_100,Smartphone,Electronics,Chennai,South,4,21054.97,0.2,67375.9,UPI,Completed
+ORD0466,2025-08-14,C062,Customer_068,Headphones,Electronics,Delhi,North,3,2265.5,0.2,5437.2,UPI,Cancelled
+ORD0467,2025-06-23,C005,Customer_073,Headphones,Electronics,Unknown,South,4,2448.03,0.15,8323.3,UPI,Completed
+ORD0468,2025-07-23,C065,Customer_076,Pen Pack,Stationery,Pune,West,5,108.38,0.15,460.61,Debit Card,Returned
+ORD0469,2025-10-20,C086,Customer_093,Office Chair,Furniture,Hyderabad,South,1,6755.74,0.15,5742.38,UPI,Completed
+ORD0470,2025-01-29,C073,Customer_020,Water Bottle,Accessories,Bengaluru,South,1,480.26,0.05,456.25,Credit Card,Completed
+ORD0471,2025-03-15,C046,Customer_009,Pen Pack,Stationery,Bengaluru,South,5,111.98,0.05,531.9,Debit Card,Returned
+ORD0472,2025-02-15,C082,Customer_030,Backpack,Accessories,Chennai,South,5,1545.77,0.2,6183.08,Cash,Returned
+ORD0473,2025-07-27,C096,Customer_044,Desk,Furniture,Pune,West,2,9796.51,0.1,17633.72,Debit Card,Returned
+ORD0474,2025-01-12,C011,Customer_015,Pen Pack,Stationery,Hyderabad,South,3,126.08,0.1,340.42,Debit Card,Cancelled
+ORD0475,2025-04-21,C089,Customer_093,Mouse,Electronics,Mumbai,West,4,679.17,0.15,2309.18,Net Banking,Completed
+ORD0476,2025-06-30,C030,Customer_020,Desk,Furniture,Delhi,North,4,8588.05,0.0,34352.2,Credit Card,Returned
+ORD0477,2025-11-28,C096,Customer_036,Notebook,Stationery,Jaipur,North,5,86.04,0.2,344.16,Credit Card,Completed
+ORD0478,2025-07-24,C035,Customer_035,Water Bottle,Accessories,Ahmedabad,West,3,443.02,0.15,1129.7,UPI,Completed
+ORD0479,2025-11-01,C089,Customer_055,Pen Pack,Stationery,Mumbai,West,5,119.92,0.0,599.6,Cash,Cancelled
+ORD0480,2025-03-18,C025,Customer_083,Notebook,Stationery,Mumbai,West,3,79.43,0.15,202.55,Credit Card,Completed
+ORD0481,2025-04-15,C087,Customer_027,Backpack,Accessories,Chennai,South,5,1522.46,0.15,6470.45,Credit Card,Returned
+ORD0482,2025-08-31,C017,Customer_085,Mouse,Electronics,Delhi,North,4,741.82,0.0,2967.28,UPI,Returned
+ORD0483,2025-01-25,C046,Customer_092,Smartphone,Electronics,Bengaluru,South,2,23076.15,0.2,36921.84,Net Banking,Completed
+ORD0484,2025-03-24,C032,Customer_085,Office Chair,Furniture,Bengaluru,South,3,5987.73,0.15,15268.71,Cash,Completed
+ORD0485,2025-07-25,C081,Customer_040,Water Bottle,Accessories,Bengaluru,South,3,449.24,0.05,1280.33,Net Banking,Cancelled
+ORD0486,2025-08-13,C057,Customer_045,Laptop,Electronics,Chennai,South,3,54640.01,0.05,155724.03,Credit Card,Completed
+ORD0487,2025-02-14,C048,Customer_079,Desk,Furniture,Bengaluru,South,2,9001.77,0.1,16203.19,Net Banking,Cancelled
+ORD0488,2025-11-08,C028,Customer_016,Backpack,Accessories,Pune,West,2,1590.17,0.1,2862.31,UPI,Completed
+ORD0489,2025-09-28,C068,Customer_018,Pen Pack,Stationery,Delhi,North,4,113.73,0.15,386.68,Credit Card,Completed
+ORD0490,2025-11-16,C024,Customer_099,Notebook,Stationery,Mumbai,West,5,78.1,0.0,390.5,Debit Card,Returned
+ORD0491,2025-12-11,C040,Customer_094,Smartphone,Electronics,Mumbai,West,5,19941.46,0.2,79765.84,Net Banking,Returned
+ORD0492,2025-10-24,C056,Customer_071,Pen Pack,Stationery,Chennai,South,3,117.31,0.15,299.14,UPI,Completed
+ORD0493,2025-07-23,C065,Customer_081,Notebook,Stationery,Ahmedabad,West,2,74.73,0.05,141.99,Net Banking,Completed
+ORD0494,2025-11-11,C097,Customer_023,Headphones,Electronics,Delhi,North,2,2319.75,0.0,4639.5,Credit Card,Completed
+ORD0495,2025-07-08,C052,Customer_093,Notebook,Stationery,Ahmedabad,West,3,80.9,0.0,242.7,Net Banking,Completed
+ORD0496,2025-09-28,C085,Customer_079,Office Chair,Furniture,Chennai,South,3,6068.32,0.05,17294.71,Credit Card,Completed
+ORD0497,2025-09-16,C030,Customer_020,Smartphone,Electronics,Bengaluru,South,3,19811.91,0.2,47548.58,Debit Card,Completed
+ORD0498,2025-03-08,C006,Customer_053,Office Chair,Furniture,Hyderabad,South,2,6448.05,0.15,10961.68,Credit Card,Cancelled
+ORD0499,2025-07-14,C018,Customer_022,Laptop,Electronics,Hyderabad,South,5,58788.49,0.0,293942.45,Cash,Returned
+ORD0500,2025-03-10,C078,Customer_050,Office Chair,Furniture,Bengaluru,South,4,6118.15,0.15,20801.71,Net Banking,Completed

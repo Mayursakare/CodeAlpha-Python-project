@@ -1,0 +1,21 @@
+ReviewID,Review,Source,Cleaned_Review,Sentiment,Positive_Score,Negative_Score,Neutral_Score
+1,"Excellent product, I really love it!",E-Commerce Reviews,excellent product i really love it,Positive,0.68,0.0,0.32
+2,Very poor quality and bad experience.,E-Commerce Reviews,very poor quality and bad experience,Negative,0.0,0.633,0.367
+3,"The product is okay, nothing special.",E-Commerce Reviews,the product is okay nothing special,Negative,0.233,0.277,0.49
+4,Amazing quality and fast delivery.,E-Commerce Reviews,amazing quality and fast delivery,Positive,0.487,0.0,0.513
+5,I am disappointed with this product.,E-Commerce Reviews,i am disappointed with this product,Negative,0.0,0.383,0.617
+6,Average product for the price.,E-Commerce Reviews,average product for the price,Neutral,0.0,0.0,1.0
+7,Excellent service and great packaging.,E-Commerce Reviews,excellent service and great packaging,Positive,0.722,0.0,0.278
+8,"Worst product, completely useless.",E-Commerce Reviews,worst product completely useless,Negative,0.0,0.782,0.218
+9,The product works as expected.,E-Commerce Reviews,the product works as expected,Neutral,0.0,0.0,1.0
+10,Very happy with my purchase.,E-Commerce Reviews,very happy with my purchase,Positive,0.5,0.0,0.5
+11,Delivery was late and packaging was damaged.,E-Commerce Reviews,delivery was late and packaging was damaged,Negative,0.0,0.326,0.674
+12,Good product with reasonable price.,E-Commerce Reviews,good product with reasonable price,Positive,0.42,0.0,0.58
+13,Not satisfied with the quality.,E-Commerce Reviews,not satisfied with the quality,Negative,0.0,0.368,0.632
+14,The product is neither good nor bad.,E-Commerce Reviews,the product is neither good nor bad,Negative,0.0,0.488,0.512
+15,"Fantastic product, highly recommended!",E-Commerce Reviews,fantastic product highly recommended,Positive,0.75,0.0,0.25
+16,"Bad experience, I will not buy again.",E-Commerce Reviews,bad experience i will not buy again,Negative,0.0,0.368,0.632
+17,Product quality is acceptable.,E-Commerce Reviews,product quality is acceptable,Positive,0.434,0.0,0.566
+18,I absolutely love this product.,E-Commerce Reviews,i absolutely love this product,Positive,0.529,0.0,0.471
+19,The product is okay but delivery was slow.,E-Commerce Reviews,the product is okay but delivery was slow,Positive,0.172,0.0,0.828
+20,Terrible quality and poor customer service.,E-Commerce Reviews,terrible quality and poor customer service,Negative,0.0,0.608,0.392
